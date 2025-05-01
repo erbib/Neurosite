@@ -78,3 +78,84 @@
   </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Le Système Nerveux</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bienvenue sur le site du Système Nerveux</h1>
+    <p>Découvrons ensemble le cerveau, les nerfs et les réflexes.</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#intro">Introduction</a></li>
+      <li><a href="#central">Système Nerveux Central</a></li>
+      <li><a href="#peripherique">Système Nerveux Périphérique</a></li>
+      <li><a href="#neurones">Neurones</a></li>
+      <li><a href="#reflexes">Fonctions et Réflexes</a></li>
+      <li><a href="#quiz">Quiz & Activités</a></li>
+      <li><a href="#ressources">Ressources</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="intro">
+      <h2>Introduction au système nerveux</h2>
+      <p>Le système nerveux perçoit, traite et répond aux informations. Il comprend :</p>
+      <ul>
+        <li>Le système nerveux central (cerveau, moelle épinière)</li>
+        <li>Le système nerveux périphérique (nerfs)</li>
+      </ul>
+    </section>
+
+    <section id="central">
+      <h2>Système Nerveux Central</h2>
+      <p>Il comprend le cerveau (centre de contrôle), le cervelet (équilibre), le tronc cérébral (fonctions vitales) et la moelle épinière (transmission).</p>
+    </section>
+
+    <section id="peripherique">
+      <h2>Système Nerveux Périphérique</h2>
+      <p>Il transmet les messages du corps au cerveau et inversement, via nerfs sensitifs et moteurs.</p>
+    </section>
+
+    <section id="neurones">
+      <h2>Les Neurones</h2>
+      <p>Les neurones sont les cellules de base. Ils ont des dendrites, un corps cellulaire, un axone et des synapses. Transmission électrochimique.</p>
+    </section>
+
+    <section id="reflexes">
+      <h2>Fonctions et Réflexes</h2>
+      <p>Différence entre réflexe (automatique) et mouvement volontaire. Exemple : réflexe rotulien.</p>
+    </section>
+
+    <section id="quiz">
+      <h2>Quiz & Activités</h2>
+      <ul>
+        <li><a href="#">Quiz interactif</a></li>
+        <li><a href="#">Fiche résumé PDF</a></li>
+      </ul>
+    </section>
+
+    <section id="ressources">
+      <h2>Pour aller plus loin</h2>
+      <ul>
+        <li><a href="https://www.cerveauetpsycho.fr/">Cerveau & Psycho</a></li>
+        <li><a href="https://www.brainfacts.org/">BrainFacts</a></li>
+        <li><a href="https://www.vulgaris-medical.com/">Vulgaris Médical</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Le système nerveux est au cœur de notre expérience humaine. Continuez à explorer !</p>
+    <a href="#">Retour à l'accueil</a>
+  </footer>
+</body>
+</html>
+
